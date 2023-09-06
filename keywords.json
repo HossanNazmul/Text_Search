@@ -1,0 +1,5 @@
+[
+    { "text": "ERROR", "is_regex": false },
+    { "text": "WARNING", "is_regex": false },
+    { "text": "FATAL", "is_regex": false }
+]

@@ -1,0 +1,7 @@
+[
+    { "text": "ERROR", "is_regex": false },
+    { "text": "WARNING", "is_regex": false },
+    { "text": "FATAL", "is_regex": false },
+    { "text": "\\d+\\.\\d+\\.\\d+\\.\\d+", "is_regex": true },
+    { "text": "\\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\\.[A-Z|a-z]{2,}\\b", "is_regex": true }
+]
