@@ -1,0 +1,1 @@
+pyinstaller --onefile text_search.py
